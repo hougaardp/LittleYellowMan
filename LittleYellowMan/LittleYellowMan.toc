@@ -1,0 +1,8 @@
+## Interface: 120105
+## Title: Little Yellow Man
+## Notes: Show a little yellow man when your gear durability drops below 50%
+## Author: MHH
+## Version: 1.0
+## SavedVariables: LittleYellowManDB
+
+LittleYellowMan.lua
